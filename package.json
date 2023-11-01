@@ -1,0 +1,25 @@
+{
+  "name": "merge-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neatblackcrow/merge-sort.git"
+  },
+  "author": "Voravut Nateluercha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neatblackcrow/merge-sort/issues"
+  },
+  "homepage": "https://github.com/neatblackcrow/merge-sort#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.7",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}
